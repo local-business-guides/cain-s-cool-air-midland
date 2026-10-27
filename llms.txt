@@ -23,6 +23,9 @@
 - [air conditioning repair Midland TX for Your Home](https://local-business-guides.github.io/cain-s-cool-air-midland/air-conditioning-repair-midland-tx/): air conditioning repair Midland TX homeowners can discuss with Cain's Cool Air for help restoring home comfort.
 - [HVAC contractor Midland TX Homeowners Can Call](https://local-business-guides.github.io/cain-s-cool-air-midland/hvac-contractor-midland-tx/): Find an HVAC contractor Midland TX homeowners can contact for home heating, cooling and indoor air quality needs.
 
+## Newsroom
+- [Cain's Cool Air Shares New AC Repair Guide for Midland Homeowners](https://local-business-guides.github.io/cain-s-cool-air-midland/news/2026-10-27-cain-s-cool-air-shares-new-ac-repair-guide-for-mid/): Cain's Cool Air has released an AC repair guide, a YouTube video and a podcast episode for homeowners in Midland and nearby communities. (2026-10-27)
+
 ## Pages
 - [AC Repair Midland, TX in Texas](https://local-business-guides.github.io/cain-s-cool-air-midland/): Get help with home heating, cooling, and air quality from a local HVAC team serving Midland. Call +1432-242-1063.
 - [About Cain's Cool Air](https://local-business-guides.github.io/cain-s-cool-air-midland/about/): About Cain's Cool Air, Midland.
@@ -30,3 +33,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/cain-s-cool-air-midland/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/cain-s-cool-air-midland/news/rss.xml)
